@@ -14,6 +14,6 @@
     {"id": 13, "img_src": "https://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631240503684E03_DXXX.jpg", "description": "Área de terreno fragmentado por grietas."},
     {"id": 14, "img_src": "https://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631240305221E03_DXXX.jpg", "description": "Formación rocosa con colores claros."},
     {"id": 15, "img_src": "https://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631230503683E01_DXXX.jpg", "description": "Huellas del rover en la arena marciana."},
-    {"id": 16, "img_src": "https://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631230503683E01_DXXX.jpg"", "description": "Vista amplia de un cráter y sus alrededores."},
+    {"id": 16, "img_src": "https://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000MR0044631230503683E01_DXXX.jpg", "description": "Vista amplia de un cráter y sus alrededores."},
     {"id": 17, "img_src": "https://mars.jpl.nasa.gov/msl-raw-images/msss/01000/mcam/1000ML0044631230305220E02_DXXX.jpg", "description": "Fragmentos de roca bajo el cielo despejado."}
 ]

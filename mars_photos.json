@@ -1,0 +1,22 @@
+[
+    {"id": 1, "img_src": "https://example.com/photo1.jpg", "description": "Roca con marcas visibles de erosión."},
+    {"id": 2, "img_src": "https://example.com/photo2.jpg", "description": "Superficie plana con huellas del rover."},
+    {"id": 3, "img_src": "https://example.com/photo3.jpg", "description": "Pequeño cráter iluminado por el sol."},
+    {"id": 4, "img_src": "https://example.com/photo4.jpg", "description": "Dunas de arena con patrones en zigzag."},
+    {"id": 5, "img_src": "https://example.com/photo5.jpg", "description": "Montículo rocoso cubierto de polvo marciano."},
+    {"id": 6, "img_src": "https://example.com/photo6.jpg", "description": "Cráter lleno de sombras durante el amanecer."},
+    {"id": 7, "img_src": "https://example.com/photo7.jpg", "description": "Estratos geológicos en capas."},
+    {"id": 8, "img_src": "https://example.com/photo8.jpg", "description": "Horizonte marciano con el sol poniente."},
+    {"id": 9, "img_src": "https://example.com/photo9.jpg", "description": "Pequeña colina cubierta por sedimentos."},
+    {"id": 10, "img_src": "https://example.com/photo10.jpg", "description": "Valle profundo visto desde lo alto."},
+    {"id": 11, "img_src": "https://example.com/photo11.jpg", "description": "Rocas puntiagudas en un área abierta."},
+    {"id": 12, "img_src": "https://example.com/photo12.jpg", "description": "Superficie con texturas onduladas."},
+    {"id": 13, "img_src": "https://example.com/photo13.jpg", "description": "Área de terreno fragmentado por grietas."},
+    {"id": 14, "img_src": "https://example.com/photo14.jpg", "description": "Formación rocosa con colores claros."},
+    {"id": 15, "img_src": "https://example.com/photo15.jpg", "description": "Huellas del rover en la arena marciana."},
+    {"id": 16, "img_src": "https://example.com/photo16.jpg", "description": "Vista amplia de un cráter y sus alrededores."},
+    {"id": 17, "img_src": "https://example.com/photo17.jpg", "description": "Fragmentos de roca bajo el cielo despejado."},
+    {"id": 18, "img_src": "https://example.com/photo18.jpg", "description": "Área rocosa con tonos rojizos intensos."},
+    {"id": 19, "img_src": "https://example.com/photo19.jpg", "description": "Montículo pequeño con arena fina."},
+    {"id": 20, "img_src": "https://example.com/photo20.jpg", "description": "Acantilado con sombras pronunciadas."}
+]
